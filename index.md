@@ -6,13 +6,13 @@ permalink: /
 ---
 
 
-# Focus on writing good documentation
+# Salesforce practice at MIL Corp
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub pages.
+The standards guide shares foundational and structural content behind the sfMIL practice.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Contact](https://github.com/ajsingh273/sfMIL){: .btn .fs-5 }
 
 ---
 
@@ -53,9 +53,6 @@ $ jekyll serve
 $ bundle exec jekyll serve
 ```
 4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-### Configure Just the Docs
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
 
 ---
