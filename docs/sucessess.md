@@ -6,4 +6,4 @@ nav_order: 7
 
 # Sucessess
 
-![](/assets/images/rocket.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/rocket.jpg)
