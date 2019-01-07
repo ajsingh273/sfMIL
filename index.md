@@ -21,7 +21,7 @@ The standards guide shares foundational and structural content behind the sfMIL 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/quickstart/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages standard Jekyll compiler.
 
 ### Quick start: Use as a GitHub Pages remote theme
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://github.com/ajsingh273/sfMIL)
 ```yaml
 remote_theme: pmarsceill/just-the-docs
 ```
@@ -57,22 +57,10 @@ $ bundle exec jekyll serve
 
 ---
 
-## About the project
+## About
 
-Just the Docs is &copy; 2017 by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+Lorem Ipsum...
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+Lorem Ipsum...
