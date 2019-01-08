@@ -12,11 +12,11 @@ permalink: /
 The standards guide shares foundational and structural content behind the sfMIL practice.
 {: .fs-6 .fw-300 }
 
-[Learn More](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Contact](https://github.com/ajsingh273/sfMIL){: .btn .fs-5 }
+[Learn More](#general){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Contact](https://github.com/ajsingh273/sfMIL){: .btn .fs-5 }
 
 ---
 
-## Getting started
+## General
 
 Lorem Ipsum...
 

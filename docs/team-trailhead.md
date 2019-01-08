@@ -6,4 +6,4 @@ nav_order: 6
 
 # Team Trailhead
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/trailhead-logo.png)
+![](/assets/images/trailhead-logo.png)
